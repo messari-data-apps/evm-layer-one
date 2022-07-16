@@ -1,0 +1,6 @@
+altair
+pandas
+streamlit
+streamlit-aggrid
+streamlit-autorefresh
+subgrounds
